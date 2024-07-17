@@ -1,0 +1,2 @@
+This project is for me to create website with an index page that has multiple links to different recipes.
+After this project I will have demonstrated my competence with html, by creating links, images and paragraphs.

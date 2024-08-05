@@ -2,19 +2,14 @@
 
 * {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+    margin: 0px;
+    padding: 0px;
 }
 
 body{
-    background-color: blue;
+    background-color: rgb(243, 243, 195);
 }
 
-h1 {
-    background-color: black;
-    color: white;
-    font-weight: 800px;
-    text-align: center;
-}
 
  h4 {
     font-weight: 400px;
@@ -23,17 +18,24 @@ h1 {
     text-align: center;
 }
 
+#title {
+    color: white;
+    font-weight: 800px;
+    display: block;
+    text-align: center;
+    background-color: rgb(59, 51, 41);
+    padding: 20px;
+}
+
 .page-links {
-    background-color: tan;
     font-weight: bold;
-    width: auto;
-    height: 400px;
-    
 }
 
 #list {
+    background-color: burlywood;
     font-size: large;
-    
+    display: inline-block;
+    padding: 10px 20px;
 }
 
 
